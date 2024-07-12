@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Ahamove</string>
+    <string name="popular_repositories_label">Popular repositories</string>
+</resources>
